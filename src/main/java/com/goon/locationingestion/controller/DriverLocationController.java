@@ -24,7 +24,7 @@ public class DriverLocationController {
                     Math.random(),
                     Math.random(),
                     System.currentTimeMillis(),
-                    null
+                    "143"
 
             );
 
