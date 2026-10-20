@@ -29,7 +29,7 @@ public class LocationProducer {
     public void send(String topic,String key,LocationEvent locationEvent){
         kafkaTemplate.send(topic,key,locationEvent).whenComplete((result,ex)->{
                     if(ex!=null){
-                        log.error("");
+                        log.error("");  //logs error but doesnt stop next process .
                     }
                  }
                );
