@@ -1,4 +1,4 @@
-package com.goon.locationingestion.service;
+package com.goon.locationingestionservice.service;
 
 import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;

@@ -1,9 +1,8 @@
-package com.goon.locationingestion.service;
+package com.goon.locationingestionservice.service;
 
-import com.goon.locationingestion.service.request.LocationPingRequest;
+import com.goon.locationingestionservice.service.request.LocationPingRequest;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 
 import org.springframework.stereotype.Service;
 

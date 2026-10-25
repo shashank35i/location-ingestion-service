@@ -1,6 +1,6 @@
-package com.goon.locationingestion;
+package com.goon.locationingestionservice;
 
-import com.goon.locationingestion.service.AppProperties;
+import com.goon.locationingestionservice.service.AppProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

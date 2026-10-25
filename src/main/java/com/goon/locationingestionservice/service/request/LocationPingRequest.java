@@ -1,4 +1,4 @@
-package com.goon.locationingestion.service.request;
+package com.goon.locationingestionservice.service.request;
 
 import jakarta.validation.constraints.DecimalMax;
 import jakarta.validation.constraints.DecimalMin;

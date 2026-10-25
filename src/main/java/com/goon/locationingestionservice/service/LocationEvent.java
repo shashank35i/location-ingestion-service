@@ -1,4 +1,4 @@
-package com.goon.locationingestion.service;
+package com.goon.locationingestionservice.service;
 
 public record LocationEvent(
         String driverId,
